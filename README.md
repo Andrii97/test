@@ -12,8 +12,7 @@ Developed by [OmiSoft](https://omisoft.net), this open solution demonstrates how
 
 This repository serves as both a **case study** and a **technical foundation** — ideal for learning, prototyping, or launching your own white-label Telegram game.
 
-
-<img width="1920" height="950" alt="Image" src="https://github.com/user-attachments/assets/23c166d8-78cb-4a40-9f09-4aefd2a674ec" />
+<img width="1920" height="950" alt="tapswap-clone" src="https://github.com/user-attachments/assets/f073ce47-3b8d-40f3-b411-c7029b4f3142" />
 
 ## 🌟 Key Highlights
 
