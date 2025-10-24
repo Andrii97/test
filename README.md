@@ -1,18 +1,18 @@
-# 🚀 Telegram TapSwap Mini App Starter | Web3 Clicker Game Framework by OmiSoft
+# 🚀 Telegram Blum Clone Script | Web3 Clicker Game Framework by OmiSoft
 
-[![Stars](https://img.shields.io/github/stars/omisoft/telegram-tapswap-starter?style=social)](https://github.com/omisoft/telegram-tapswap-starter) ![Built with TypeScript](https://img.shields.io/badge/Built%20with-TypeScript-3178C6?logo=typescript) ![Telegram Mini App](https://img.shields.io/badge/Telegram-Mini%20App-blue?logo=telegram) ![License](https://img.shields.io/badge/license-MIT-green)
+[![Stars](https://img.shields.io/github/stars/omisoft/blum-clone-script?style=social)](https://github.com/omisoft/blum-clone-script) ![Built with TypeScript](https://img.shields.io/badge/Built%20with-TypeScript-3178C6?logo=typescript) ![Telegram Mini App](https://img.shields.io/badge/Telegram-Mini%20App-blue?logo=telegram) ![License](https://img.shields.io/badge/license-MIT-green)
 
 > 💫 If you find this project useful — **give it a ⭐** and help others discover it!  
 > Your support motivates us to improve and add more open-source Telegram solutions.
 
 ## 🧩 Overview
 
-**Telegram TapSwap Mini App Starter** is a ready-to-customize **Web3 clicker game framework** built as a Telegram Mini App.  
+**Telegram Blum Clone Script** is a ready-to-customize **Web3 clicker game framework** built as a Telegram Mini App.  
 Developed by [OmiSoft](https://omisoft.net), this open solution demonstrates how businesses and developers can **build Hamster-Kombat-style games** on Telegram using modern Web3 technologies.
 
 This repository serves as both a **case study** and a **technical foundation** — ideal for learning, prototyping, or launching your own white-label Telegram game.
 
-<img width="1920" height="950" alt="tapswap-clone" src="https://github.com/user-attachments/assets/f073ce47-3b8d-40f3-b411-c7029b4f3142" />
+![xnotcoin-clone-solution-1 png pagespeed ic 7i2oXMq5un](https://github.com/user-attachments/assets/cb691435-6ad7-41ed-ae10-43cf5b050c1d)
 
 ## 🌟 Key Highlights
 
@@ -24,6 +24,31 @@ This repository serves as both a **case study** and a **technical foundation** �
 - **Admin Dashboard:** Manage content, users, and analytics.
 - **Multi-Language Support:** Built-in localization system.
 - **Performance Optimized:** CI/CD pipelines, caching, and DDoS protection.
+
+## 🎮 Blum Clone Features
+
+This section highlights the key gameplay and engagement mechanics that make **Tap-to-Earn** and similar Telegram Mini App games effective.
+
+### 1. Tap-to-Earn Mechanics  
+A simple tap interaction keeps users engaged with minimal learning.  
+This mechanic helps maintain player attention and encourages consistent daily activity.
+
+### 2. In-Game Currency  
+Players collect coins by tapping, which provides a sense of progress and achievement.  
+The system encourages regular returns and helps sustain long-term engagement.
+
+### 3. Booster System  
+Users can activate boosters that temporarily increase rewards or tapping speed.  
+Boosters introduce progression dynamics and create opportunities for balanced gameplay growth.
+
+### 4. Leaderboards  
+A leaderboard system motivates users to compete and improve their performance.  
+Competition fosters higher activity levels and community interaction within the game.
+
+### 5. Referral System  
+Players can invite friends and receive in-game bonuses for successful referrals.  
+This supports organic user growth and community-driven expansion.
+
 
 ## ⚙️ Technology Stack
 
@@ -95,7 +120,7 @@ The core logic and structure are production-grade, but you may need to adapt it 
 
 ## ⭐ Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=omisoft/telegram-tapswap-starter&type=Date)](https://star-history.com/#omisoft/telegram-tapswap-starter)
+[![Star History Chart](https://api.star-history.com/svg?repos=omisoft/blum-clone-script&type=Date)](https://star-history.com/#omisoft/blum-clone-script)
 
 ## 🧠 About OmiSoft
 
