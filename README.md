@@ -87,5 +87,7 @@ The core logic and structure are production-grade, but you may need to adapt it 
 OmiSoft is a full-cycle software development company specializing in **Telegram Mini Apps**, **Web3**, and **AI-powered solutions**.  
 We build innovative products and share open-source tools to support the global dev community.
 
+If you're using this codebase to power your Tap2Earn launch and encounter any difficulties, we're here to help. Simply create an Issue for community support, or contact us directly for focused guidance.
+
 💫 If this starter helped you — **don’t forget to leave a ⭐**.  
 Every star helps make open-source Telegram innovation grow.
