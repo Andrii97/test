@@ -1,4 +1,4 @@
-# 🚀 Telegram Blum Clone Script | Web3 Clicker Game Framework by OmiSoft
+# 🚀 Telegram Blum Clone Script - Front End Part
 
 [![Stars](https://img.shields.io/github/stars/omisoft/blum-clone-script?style=social)](https://github.com/omisoft/blum-clone-script) ![Built with TypeScript](https://img.shields.io/badge/Built%20with-TypeScript-3178C6?logo=typescript) ![Telegram Mini App](https://img.shields.io/badge/Telegram-Mini%20App-blue?logo=telegram) ![License](https://img.shields.io/badge/license-MIT-green)
 
@@ -8,9 +8,9 @@
 ## 🧩 Overview
 
 **Telegram Blum Clone Script** is a ready-to-customize **Web3 clicker game framework** built as a Telegram Mini App.  
-Developed by [OmiSoft](https://omisoft.net), this open solution demonstrates how businesses and developers can **build Hamster-Kombat-style games** on Telegram using modern Web3 technologies.
+This open solution demonstrates how businesses and developers can **build Hamster-Kombat-style games** on Telegram using modern Web3 technologies.
 
-This repository serves as both a **case study** and a **technical foundation** — ideal for learning, prototyping, or launching your own white-label Telegram game.
+This repository serves as both a **case study** and a **technical foundation** — ideal for learning, prototyping, or launching your own Telegram game.
 
 ![xnotcoin-clone-solution-1 png pagespeed ic 7i2oXMq5un](https://github.com/user-attachments/assets/cb691435-6ad7-41ed-ae10-43cf5b050c1d)
 
@@ -49,42 +49,6 @@ Competition fosters higher activity levels and community interaction within the 
 Players can invite friends and receive in-game bonuses for successful referrals.  
 This supports organic user growth and community-driven expansion.
 
-
-## ⚙️ Technology Stack
-
-<details>
-  <summary><b>Frontend</b></summary>
-  <ul>
-    <li>React.js / Redux Toolkit / TypeScript</li>
-    <li>Wagmi for wallet integrations</li>
-    <li>Jest for unit testing</li>
-  </ul>
-</details>
-
-<details>
-  <summary><b>Backend</b></summary>
-  <ul>
-    <li>Node.js / Express.js / TypeScript</li>
-    <li>MongoDB + Mongoose ORM</li>
-    <li>Swagger for API documentation</li>
-  </ul>
-</details>
-
-<details>
-  <summary><b>Blockchain</b></summary>
-  <ul>
-    <li>Solidity Smart Contracts</li>
-  </ul>
-</details>
-
-<details>
-  <summary><b>DevOps</b></summary>
-  <ul>
-    <li>Docker + GitLab CI</li>
-    <li>AWS Cloud Infrastructure</li>
-  </ul>
-</details>
-
 ## 🚀 Quick Start
 
 You can use this project as a **starter template** for building your own Telegram Mini App game.
@@ -117,10 +81,6 @@ Yes! You can modify UI, backend, or blockchain logic — it’s fully modular an
 
 **Is this production-ready?**  
 The core logic and structure are production-grade, but you may need to adapt it for your specific tokenomics and game flow.
-
-## ⭐ Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=omisoft/blum-clone-script&type=Date)](https://star-history.com/#omisoft/blum-clone-script)
 
 ## 🧠 About OmiSoft
 
